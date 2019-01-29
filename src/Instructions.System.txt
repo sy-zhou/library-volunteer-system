@@ -1,0 +1,14 @@
+Welcome to the VP Library Volunteer System. These are the Volunteer and Timetable panels. 
+
+In the Volunteers panel, you can view the volunteers in your library system. You can 
+left-click on one of the volunteers to view their profile. From their profile, you can 
+edit the volunteer or delete them. From the Volunteers panel, you can also add a 
+volunteer and adjust the display of volunteers. Please note the following instructions 
+for searching through the list of volunteers:
+
+Search Criteria:
+- when searching NAMES, the search term can be a part of a name
+- when searching STUDENT NUMBER, the search term must be the entire student number
+
+In the Timetable panel, you can add volunteers to certain shifts in the timetable. You
+can also save your work in the system and exit the program from both panels.

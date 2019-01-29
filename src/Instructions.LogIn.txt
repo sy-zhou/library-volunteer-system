@@ -1,0 +1,6 @@
+To log in to the Library Volunteer System, please enter your
+username and password, then left-click the button "Log In".
+
+If you do not have an account on this system, you can left-click
+the 'Create New Account' button and enter new usernames and
+passwords to create a new account.
