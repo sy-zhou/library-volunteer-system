@@ -1,8 +1,8 @@
 # Library Volunteer System
 
-The /Library Volunteer System/ is a program that stores volunteer profiles and produces a corresponding volunteer shift schedule based on user-defined preferences. This program was designed in order to optimize my high school library’s volunteer management system.
+The *Library Volunteer System* is a program that stores volunteer profiles and produces a corresponding volunteer shift schedule based on user-defined preferences. This program was designed in order to optimize my high school library’s volunteer management system.
 
-## Roadmap
+## Possible Changes
 
 The following list details ideas for possible development in the future.
 
